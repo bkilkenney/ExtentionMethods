@@ -1,0 +1,6 @@
+C:\Users\bkilkenney\Documents\Visual Studio 2015\CodeInterview\ExtentionMethods\ExtentionMethods\bin\Debug\ExtentionMethods.exe.config
+C:\Users\bkilkenney\Documents\Visual Studio 2015\CodeInterview\ExtentionMethods\ExtentionMethods\bin\Debug\ExtentionMethods.exe
+C:\Users\bkilkenney\Documents\Visual Studio 2015\CodeInterview\ExtentionMethods\ExtentionMethods\bin\Debug\ExtentionMethods.pdb
+C:\Users\bkilkenney\Documents\Visual Studio 2015\CodeInterview\ExtentionMethods\ExtentionMethods\obj\Debug\ExtentionMethods.csprojResolveAssemblyReference.cache
+C:\Users\bkilkenney\Documents\Visual Studio 2015\CodeInterview\ExtentionMethods\ExtentionMethods\obj\Debug\ExtentionMethods.exe
+C:\Users\bkilkenney\Documents\Visual Studio 2015\CodeInterview\ExtentionMethods\ExtentionMethods\obj\Debug\ExtentionMethods.pdb
